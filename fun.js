@@ -3,5 +3,5 @@ function a() {
 }
 
 function b() {
-  return 7;
+  return "7";
 }
