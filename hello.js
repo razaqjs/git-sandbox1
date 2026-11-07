@@ -1,1 +1,1 @@
-confirm(8);
+console.log(123);
