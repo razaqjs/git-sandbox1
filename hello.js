@@ -1,1 +1,1 @@
-confirm(8);
+"hello guys";
