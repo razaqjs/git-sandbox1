@@ -1,1 +1,1 @@
-console.log('hello world');
+confirm("good day");
