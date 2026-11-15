@@ -1,3 +1,6 @@
-function greet(name) {
-  console.log(`Good afternoon ${name}`);
-}
+const user = {
+  name: "Abdulrazaq",
+  greet() {
+    console.log(`Hello, ${this.name}`);
+  },
+};
