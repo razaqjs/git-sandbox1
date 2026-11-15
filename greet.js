@@ -1,6 +1,1 @@
-const user = {
-  name: "Abdulrazaq",
-  greet() {
-    console.log(`Hello, ${this.name}`);
-  },
-};
+const greet = (name) => console.log(`Hello, ${name}`);
