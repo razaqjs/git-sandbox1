@@ -1,3 +1,1 @@
-function greet(name) {
-  console.log(`Good afternoon ${name}`);
-}
+const greet = (name) => console.log(`Hello, ${name}`);
